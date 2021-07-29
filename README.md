@@ -10,7 +10,10 @@ I stand by this moral knowing that not everything is going to be my way. I under
 
 - 🔭 I’m currently working on a Discord Bot coded in Python, it is reaching the end of alpha. I'll update this README with the link when it is out of beta as well!
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/) and Java, to create applications that can be used cross-platform. I am also learning [MySQL](https://www.mysql.com/) and [Postgres](https://www.postgresql.org/), but I am experienced with using [MongoDB](https://www.mongodb.com/).
-- I love Python, and it is one of my all-time favorite languages.
+- 🐍 I love Python, and it is one of my all-time favorite languages.
 - 😄 I love to play basketball, code, and listen to music! In general, I am deep into the STEM ecosystem!!
+
+<img align="center" src="https://github-readme-stats.rahulp7801.vercel.app/api/top-langs/?username=rahulp7801&layout=compact&theme=material-palenight" />
+
 
 
