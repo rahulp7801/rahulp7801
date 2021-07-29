@@ -4,14 +4,15 @@ I'm currently a high school student studying the internals of computers to bette
 
 I have experience in both front-end and back-end development, although I prefer back-end by a ton. 
 
-> "When something is important enough, you do it even if the odds are not in your favor." ~Elon Musk
+> "When something is important enough, you do it even if the odds are not in your favor." 
+> ~Elon Musk
 
 I stand by this moral knowing that not everything is going to be my way. I understand that I need to take the risks to become successful. 
 
-- 🔭 I’m currently working on a Discord Bot coded in Python, it is reaching the end of alpha. I'll update this README with the link when it is out of beta as well!
-- 🌱 I’m currently learning [Flutter](https://flutter.dev/) and Java, to create applications that can be used cross-platform. I am also learning [MySQL](https://www.mysql.com/) and [Postgres](https://www.postgresql.org/), but I am experienced with using [MongoDB](https://www.mongodb.com/).
+- 🔭 I’m currently working on a **Discord Bot** coded in **asynchronous Python**, it is reaching the end of alpha. I'll update this README with the link when it is out of beta as well!
+- 🌱 I’m currently learning [Flutter](https://flutter.dev/) and Java, to create downloadable applications that can be used cross-platform. I am also learning [MySQL](https://www.mysql.com/) and [Postgres](https://www.postgresql.org/), but I am experienced with using [MongoDB](https://www.mongodb.com/).
 - 🐍 I love Python, and it is one of my all-time favorite languages.
-- 😄 I love to play basketball, code, and listen to music! In general, I am deep into the STEM ecosystem!!
+- 😄 I love to play **basketball**, **code**, and **music**! In general, I am a diehard STEM fanatic.
 
 ## Languages & Tools ##
 
