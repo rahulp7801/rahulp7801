@@ -13,7 +13,7 @@ I stand by this moral knowing that not everything is going to be my way. I under
 - 🐍 I love Python, and it is one of my all-time favorite languages.
 - 😄 I love to play basketball, code, and listen to music! In general, I am deep into the STEM ecosystem!!
 
-<img align="center" src="https://github-readme-stats.rahulp7801.vercel.app/api/top-langs/?username=rahulp7801&layout=compact&theme=material-palenight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulp7801&layout=compact&theme=material-palenight" />
 
 
 
