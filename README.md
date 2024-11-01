@@ -2,10 +2,9 @@
 
 I'm currently a high school student studying the internals of computers to better understand how the world works on the innovative level that it is at today. I'm also an avid basketball player, and I love to read! #Python Gang I'm also that one [STEM](https://www.ed.gov/stem) kid, if you know you know??
 
-I have experience in both front-end and back-end development, although I prefer back-end by a ton. 
+I'm involved in the FIRST ecosystem, as a member of Team #38860 Lightning Bots & FTC Team #19655 Cognition. I love using GitHub to open-source our code! I'm a firm believer in open-sourcing code to ensure transparency and accountability when projects go awry.
 
-> "When something is important enough, you do it even if the odds are not in your favor." 
-> ~Elon Musk
+I have experience in both front-end and back-end development, although I prefer back-end by a ton. 
 
 I stand by this moral knowing that not everything is going to be my way. I understand that I need to take the risks to become successful. 
 
