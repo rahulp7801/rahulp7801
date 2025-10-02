@@ -1,4 +1,4 @@
-# Hi there 👋, I’m [Rahul Puritipati]
+# Hi there 👋, I’m Rahul Puritipati
 
 🎓 **Freshman @ UCLA**  
 💻 Studying **Computer Science & Engineering**  
