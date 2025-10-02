@@ -1,34 +1,49 @@
-### Rahul P -- @rahulp7801
+# Hi there 👋, I’m [Rahul Puritipati]
 
-I'm currently a high school student studying the internals of computers to better understand how the world works on the innovative level that it is at today. I'm also an avid basketball player, and I love to read! #Python Gang I'm also that one [STEM](https://www.ed.gov/stem) kid, if you know you know??
+🎓 **Freshman @ UCLA**  
+💻 Studying **Computer Science & Engineering**  
+⚡ Passionate about building tech that connects people, solves problems, and sometimes bends the rules (in a good way).
 
-I'm involved in the FIRST ecosystem, as a member of **Team #38860 Lightning Bots** & **FTC Team #19655 Cognition**. I love using GitHub to open-source our code! I'm a firm believer in open-sourcing code to ensure transparency and accountability when projects go awry.
+---
 
-I have experience in both front-end and back-end development, although I prefer back-end by a ton. 
+## 🚀 About Me
+- I love blending **software + hardware** to create solutions that are practical, scalable, and fun.  
+- Self-taught a lot of my stack — I believe the best way to learn is to **build and break things**.  
+- Outside of code, you’ll probably find me playing basketball 🏀, folding random things out of paper ✂️, or chasing down some obscure fact just because I can.  
 
-I stand by this moral knowing that not everything is going to be my way. I understand that I need to take the risks to become successful. 
+---
 
-- 🔭 I’m currently working on a **Discord Bot** coded in **asynchronous Python**, it is reaching the end of alpha. I'll update this README with the link when it is out of beta as well!
-- 🌱 I’m currently learning [Flutter](https://flutter.dev/) and Java, to create downloadable applications that can be used cross-platform. I am also learning [MySQL](https://www.mysql.com/) and [Postgres](https://www.postgresql.org/), but I am experienced with using [MongoDB](https://www.mongodb.com/).
-- 🐍 I love Python, and it is one of my all-time favorite languages.
-- 😄 I love to play **basketball**, **code**, and **music**! In general, I am a diehard STEM fanatic.
+## 🛠️ Projects I’m Proud Of
+- **InfiniBot** 🧩  
+  Pioneered the **first-of-its-kind unified Discord bot**, consolidating 20+ bots into one system with Google Classroom, Maps, and Yelp API integrations. Served **15K+ users across 50+ guilds**, redefining online community engagement.  
 
-## Languages & Tools ##
+- **WealthWise** 💸  
+  Co-developed an **AI-powered web app** for personalized financial consulting. Presented at the **U.S. Capitol** for its impact on financial literacy and inclusion.  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"></code>
-<code><img height="20" color='#fff' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
-<code><img height="20" src="https://www.tannerrecord.com/wp-content/uploads/2015/06/Logo-Google_Analytics2.png"></code>
+- **Club Discovery Platform** 🔍  
+  Built a Next.js + Vercel platform that centralized discovery for **100+ school clubs**, using Pandas for ranking & filtering. Officially adopted as the school’s endorsed system.  
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulp7801&layout=compact&theme=material-palenight" />
+- **WebSocket Chat App** 💬  
+  Created a React.js + WebSocket chat platform to **bypass school restrictions** when other apps were blocked. Adopted by two full classes and some clubs as a reliable way to plan meetups and communicate.  
 
+---
 
+## 🧰 Tech Stack
+- **Languages:** Python, Java, JavaScript/TypeScript, HTML/CSS  
+- **Frameworks & Tools:** React.js, Next.js, Node.js, Pandas, MongoDB  
+- **Other:** Hardware tinkering, automation tools, full-stack development  
 
+---
+
+## 🌟 Fun Facts
+- I like making gifts out of folded paper — because sometimes low-tech is just as cool as high-tech.  
+- I’m always learning something new: lately, it’s been diving deeper into scalable backend design.
+- I once built a chat app just so my friends and I could bypass school WiFi restrictions — necessity really is the mother of invention.  
+---
+
+## 📫 Let’s Connect
+- [LinkedIn](https://www.linkedin.com/in/rahul-puritipati-aaa936213/)  
+- [Email](rahulp7801@ucla.edu)  
+- [TikTok SWE Internship Dreams 👀](#)
+
+---
