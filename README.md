@@ -44,6 +44,5 @@
 ## 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/rahul-puritipati-aaa936213/)  
 - [Email](rahulp7801@ucla.edu)  
-- [TikTok SWE Internship Dreams 👀](#)
 
 ---
