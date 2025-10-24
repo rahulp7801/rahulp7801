@@ -1,6 +1,6 @@
 # Hi there 👋, I’m Rahul Puritipati
 
-🎓 **Freshman @ UCLA**  
+🎓 **Class of 2028**  
 💻 Studying **Computer Science & Engineering**  
 ⚡ Passionate about building tech that connects people, solves problems, and sometimes bends the rules (in a good way).
 
