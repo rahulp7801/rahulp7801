@@ -2,14 +2,14 @@
 
 🎓 **Class of 2029**  
 💻 Studying **Computer Science & Engineering**  
-⚡ Passionate about building tech that connects people, solves problems, and sometimes bends the rules (in a good way).
+⚡ Passionate about building tech that connects people and sometimes bends the rules (in a good way).
 
 ---
 
 ## 🚀 About Me
-- I love blending **software + hardware** to create solutions that are practical, scalable, and fun.  
-- Self-taught a lot of my stack — I believe the best way to learn is to **build and break things**.  
-- Outside of code, you’ll probably find me playing basketball 🏀, folding random things out of paper ✂️, or chasing down some obscure fact just because I can.  
+- I love blending **software + hardware** to create solutions that are practical and fun.  
+- Self-taught pretty much all of my stack — I believe the best way to learn is to **build and break things**.  
+- Outside of code, you’ll probably find me lifting heavy weight 🏋🏻‍♂️, folding random things out of paper ✂️, or playing NBA 2K 🏀.  
 
 ---
 
@@ -29,20 +29,20 @@
 ---
 
 ## 🧰 Tech Stack
-- **Languages:** Python, Java, JavaScript/TypeScript, HTML/CSS  
-- **Frameworks & Tools:** React.js, Next.js, Node.js, Pandas, MongoDB  
+- **Languages:** Python, Java, JavaScript/TypeScript, HTML/CSS, C++  
+- **Frameworks & Tools:** React.js, Next.js, Node.js, Pandas, MongoDB, ExpressJS, React Native, Postgres, MySQL, SQLite  
 - **Other:** Hardware tinkering, automation tools, full-stack development  
 
 ---
 
 ## 🌟 Fun Facts
-- I like making gifts out of folded paper — because sometimes low-tech is just as cool as high-tech.  
-- I’m always learning something new: lately, it’s been diving deeper into scalable backend design.
-- I once built a chat app just so my friends and I could bypass school WiFi restrictions — necessity really is the mother of invention.  
+- I like making gifts out of folded paper... because sometimes low-tech is just as cool as high-tech.  
+- I’m always learning something new: lately, it’s been that I can safely skip leg day by walking 20,000 steps on this hilly campus. 
+- I once built a chat app just so my friends and I could bypass school WiFi restrictions... necessity really is the mother of invention.  
 ---
 
 ## 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/rahul-puritipati-aaa936213/)  
-- [Email](rahulp7801@ucla.edu)  
+- [Email](mailto:rahulp7801@ucla.edu)  
 
 ---
