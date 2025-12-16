@@ -1,6 +1,5 @@
 # Hi there 👋, I’m Rahul Puritipati
 
-🎓 **Class of 2029**  
 💻 Studying **Computer Science & Engineering**  
 ⚡ Passionate about building tech that connects people and sometimes bends the rules (in a good way).
 
