@@ -1,47 +1,58 @@
-# Hi there 👋, I’m Rahul Puritipati
+# Hi there, I’m Rahul Puritipati 👋
 
-💻 Studying **Computer Science & Engineering**  
-⚡ Passionate about building tech that connects people and sometimes bends the rules (in a good way).
+**CS & Engineering @ UCLA** | **Full-Stack Developer** | **Systems Architect**
 
----
-
-## 🚀 About Me
-- I love blending **software + hardware** to create solutions that are practical and fun.  
-- Self-taught pretty much all of my stack — I believe the best way to learn is to **build and break things**.  
-- Outside of code, you’ll probably find me lifting heavy weight 🏋🏻‍♂️, folding random things out of paper ✂️, or playing NBA 2K 🏀.  
+I’m a builder who sits at the intersection of **Agentic AI** and **Financial Markets**. I’m driven by high-leverage systems and the "rule-bending" philosophy that necessity is the mother of invention.
 
 ---
 
-## 🛠️ Projects I’m Proud Of
-- **InfiniBot** 🧩  
-  Pioneered the **first-of-its-kind unified Discord bot**, consolidating 20+ bots into one system with Google Classroom, Maps, and Yelp API integrations. Served **15K+ users across 50+ guilds**, redefining online community engagement.  
+### 🚀 What I’m Working On
 
-- **WealthWise** 💸  
-  Co-developed an **AI-powered web app** for personalized financial consulting. Presented at the **U.S. Capitol** for its impact on financial literacy and inclusion.  
-
-- **Club Discovery Platform** 🔍  
-  Built a Next.js + Vercel platform that centralized discovery for **100+ school clubs**, using Pandas for ranking & filtering. Officially adopted as the school’s endorsed system.  
-
-- **WebSocket Chat App** 💬  
-  Created a React.js + WebSocket chat platform to **bypass school restrictions** when other apps were blocked. Adopted by two full classes and some clubs as a reliable way to plan meetups and communicate.  
+* **Agentic AI & Automation:** Developing specialized agents using **Agent-S** and **LeanMCP**. My latest project, **Koda**, allows for full remote desktop control via voice calls—turning LLMs into functional OS operators.
+* **OpenSrcer:** Architecting an open-source framework focused on making agentic workflows more accessible and modular for the developer community.
+* **Market Microstructure:** Active futures trader focused on intraday trading (NQ/MGC). I specialize in **Wick Theory** (OTE/CE hidden ranges) and CVD-based volume imbalances. 
+* **Daily Bruin:** Engineering the digital infrastructure for one of the nation's largest student-run newspapers.
 
 ---
 
-## 🧰 Tech Stack
-- **Languages:** Python, Java, JavaScript/TypeScript, HTML/CSS, C++  
-- **Frameworks & Tools:** React.js, Next.js, Node.js, Pandas, MongoDB, ExpressJS, React Native, Postgres, MySQL, SQLite  
-- **Other:** Hardware tinkering, automation tools, full-stack development  
+### 🛠️ Technical Arsenal
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | Python, C++, TypeScript/JavaScript, Java, HTML/CSS |
+| **Frameworks** | React.js, Next.js, Node.js, Express, Agent-S, LeanMCP |
+| **Data & Infra** | PostgreSQL, MongoDB, MySQL, SQLite, Pandas, WebSockets |
+| **Specialized** | Web Scraping, Agentic RDP, Automation, Systems Design |
 
 ---
 
-## 🌟 Fun Facts
-- I like making gifts out of folded paper... because sometimes low-tech is just as cool as high-tech.  
-- I’m always learning something new: lately, it’s been that I can safely skip leg day by walking 20,000 steps on this hilly campus. 
-- I once built a chat app just so my friends and I could bypass school WiFi restrictions... necessity really is the mother of invention.  
+### 🌟 Projects I’m Proud Of
+
+* **Koda 🎙️**
+    * An agentic remote desktop project built during a 2026 hackathon. Uses voice-to-action pipelines to control a PC through natural language, bypassing the need for traditional UI interaction.
+* **WealthWise Finance 💸**
+    * **Congressional App Challenge Winner (2024).** An AI-powered platform for personalized financial consulting, presented at the U.S. Capitol. 
+* **InfiniBot 🧩**
+    * Architected a unified Discord ecosystem consolidating 20+ bots. Scaled to **15K+ users** across 50+ guilds with deep API integrations (Maps, Yelp, Classroom).
+* **Sports Betting EV Finder 📈**
+    * Developed a real-time scraping and analytical tool to identify Expected Value (EV+) opportunities in sports markets.
+
 ---
 
-## 📫 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/rahul-puritipati-aaa936213/)  
-- [Email](mailto:rahulp7801@ucla.edu)  
+### 🏋️‍♂️ Beyond the Terminal
+
+* **Academic Background:** High School Valedictorian; now tackling Computer Science & Engineering at UCLA.
+* **Bodybuilding:** Currently running an Upper/Lower split. I’ve learned that UCLA’s hills are basically a 24/7 leg day supplement.
+* **Markets:** Catch me at 6:30 AM PST watching the CVD and Nasdaq order flow. 
+* **Low-Tech:** I still fold random things out of paper (origami). Sometimes the best systems don't need electricity.
+* **Sports:** Faithful to the **SF 49ers** and **Sacramento Kings**. 
 
 ---
+
+### 📫 Connect with Me
+
+* [**LinkedIn**](https://linkedin.com/in/rahul-puritipati)
+* [**Email**](mailto:rahulp7801@ucla.edu)
+* **Current Location:** 📍 Los Angeles, CA (UCLA)
+
+> "Just build it."
