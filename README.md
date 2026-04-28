@@ -6,7 +6,7 @@ I’m a builder who sits at the intersection of **Agentic AI** and **Financial M
 
 ---
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=rahulp7801)
 
 ### 🚀 What I’m Working On
 
