@@ -6,6 +6,8 @@ I’m a builder who sits at the intersection of **Agentic AI** and **Financial M
 
 ---
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 ### 🚀 What I’m Working On
 
 * **Agentic AI & Automation:** Developing specialized agents using **Agent-S** and **LeanMCP**. My latest project, **Koda**, allows for full remote desktop control via voice calls—turning LLMs into functional OS operators.
