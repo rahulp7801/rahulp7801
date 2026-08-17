@@ -1,60 +1,51 @@
-# Hi there, I’m Rahul Puritipati 👋
+# Hi, I'm Rahul Puritipati 👋
 
-**CS & Engineering @ UCLA** | **Full-Stack Developer** | **Systems Architect**
+**CS & Engineering @ UCLA** · **AI / SWE** · **AI Solutions Intern @ Sagitec**
 
-I’m a builder who sits at the intersection of **Agentic AI** and **Financial Markets**. I’m driven by high-leverage systems and the "rule-bending" philosophy that necessity is the mother of invention.
-
----
-
-![](https://komarev.com/ghpvc/?username=rahulp7801)
-
-### 🚀 What I’m Working On
-
-* **Agentic AI & Automation:** Developing specialized agents using **Agent-S** and **LeanMCP**. My latest project, **Koda**, allows for full remote desktop control via voice calls—turning LLMs into functional OS operators.
-* **OpenSrcer:** Architecting an open-source framework focused on making agentic workflows more accessible and modular for the developer community.
-* **Market Microstructure:** Active futures trader focused on intraday trading (NQ/MGC). I specialize in **Wick Theory** (OTE/CE hidden ranges) and CVD-based volume imbalances. 
-* **Daily Bruin:** Engineering the digital infrastructure for one of the nation's largest student-run newspapers.
+I build agentic AI: the kind where an LLM does reliable work inside a real engineering pipeline, not a demo that falls apart on the second try. Most of what I care about is the unglamorous part, grounding, validation, and keeping the model from making things up.
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🚀 What I'm working on
 
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | Python, C++, TypeScript/JavaScript, Java, HTML/CSS |
-| **Frameworks** | React.js, Next.js, Node.js, Express, Agent-S, LeanMCP |
-| **Data & Infra** | PostgreSQL, MongoDB, MySQL, SQLite, Pandas, WebSockets |
-| **Specialized** | Web Scraping, Agentic RDP, Automation, Systems Design |
-
----
-
-### 🌟 Projects I’m Proud Of
-
-* **Koda 🎙️**
-    * An agentic remote desktop project built during a 2026 hackathon. Uses voice-to-action pipelines to control a PC through natural language, bypassing the need for traditional UI interaction.
-* **WealthWise Finance 💸**
-    * **Congressional App Challenge Winner (2024).** An AI-powered platform for personalized financial consulting, presented at the U.S. Capitol. 
-* **InfiniBot 🧩**
-    * Architected a unified Discord ecosystem consolidating 20+ bots. Scaled to **15K+ users** across 50+ guilds with deep API integrations (Maps, Yelp, Classroom).
-* **Sports Betting EV Finder 📈**
-    * Developed a real-time scraping and analytical tool to identify Expected Value (EV+) opportunities in sports markets.
+- **Sagitec (AI Solutions Intern)** — Building the coding and system-test agents in a gated, human-in-the-loop multi-agent SDLC pipeline that generates against a proprietary low-code language no base model has ever seen. Tool-calling harness, Lucene-backed RAG for grounding, MCP integration, and a ReAct loop I cut per-task token usage on by 90%+.
+- **OpenSrcer** — An open-source agentic framework on the Model Context Protocol (MCP) that standardizes tool-calling and system-level actions for autonomous agents. Won Best Use of AI/ML at CitrusHack.
+- **Agentic +EV analytics platform** — A multi-agent LangGraph pipeline over PostgreSQL that models player-prop outcomes and flags +EV signals, built like a trading desk. The LLM orchestrates queries; it never invents a number.
+- **Systematic backtesting framework** — A reproducible research engine for multi-asset strategies with real transaction-cost modeling and rigorous statistical validation (walk-forward, out-of-sample, permutation tests).
+- **Daily Bruin** — Performance work and features across the web stack for one of the nation's largest student-run papers (176k+ monthly readers).
 
 ---
 
-### 🏋️‍♂️ Beyond the Terminal
+### 🛠️ Stack
 
-* **Academic Background:** High School Valedictorian; now tackling Computer Science & Engineering at UCLA.
-* **Bodybuilding:** Currently running an Upper/Lower split. I’ve learned that UCLA’s hills are basically a 24/7 leg day supplement.
-* **Markets:** Catch me at 6:30 AM PST watching the CVD and Nasdaq order flow. 
-* **Low-Tech:** I still fold random things out of paper (origami). Sometimes the best systems don't need electricity.
-* **Sports:** Faithful to the **SF 49ers** and **Sacramento Kings**. 
+| | |
+| --- | --- |
+| **AI / Agents** | Multi-Agent Orchestration, MCP, RAG, LangGraph, LangChain, LlamaIndex, Pinecone, Azure OpenAI, Prompt Engineering |
+| **Languages** | Python, TypeScript, C#, C++, Java, SQL |
+| **Backend / Data** | FastAPI, Flask, Node.js, .NET, PostgreSQL, MongoDB, Supabase, Neo4j, Lucene |
+| **Frontend** | React, Next.js |
+| **Tooling** | Git, Docker, CI/CD, Azure, Azure DevOps |
 
 ---
 
-### 📫 Connect with Me
+### 🌟 Things I'm proud of
 
-* [**LinkedIn**](https://linkedin.com/in/rahul-puritipati)
-* [**Email**](mailto:rahulp7801@ucla.edu)
-* **Current Location:** 📍 Los Angeles, CA (UCLA)
+- **OpenSrcer** — MCP agent framework; Best Use of AI/ML at CitrusHack (solo, 300+ participants).
+- **WealthWise** — Congressional App Challenge winner, presented at the U.S. Capitol.
+- **Open source** — recently merged a fix into [worldmonitor](https://github.com/koala73/worldmonitor) (82k+ stars).
 
-> "Just build it."
+---
+
+### 🏋️ Beyond the terminal
+
+- High School Valedictorian, now doing CS & Engineering at UCLA.
+- Lift on an upper/lower split; UCLA's hills double as extra leg day.
+- Watch Nasdaq order flow more than is probably healthy.
+- Still fold origami. Sometimes the best systems don't need electricity.
+- SF 49ers and Sacramento Kings.
+
+---
+
+### 📫 Reach me
+
+[LinkedIn](https://linkedin.com/in/rahul-puritipati) · [Email](mailto:rahulp7801@ucla.edu) · Los Angeles, CA
