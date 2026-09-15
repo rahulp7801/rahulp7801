@@ -1,51 +1,41 @@
-# Hi, I'm Rahul Puritipati 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=39D353&vCenter=true&width=520&lines=hey%2C+i'm+rahul;building+ai+agents+%40+sagitec;probably+watching+NQ+right+now" alt="hey, i'm rahul" />
 
-**CS & Engineering @ UCLA** · **AI / SWE** · **AI Solutions Intern @ Sagitec**
+```console
+rahul@ucla:~$ whoami
+cs & engineering @ ucla '28
+ai solutions intern @ sagitec
+swe @ daily bruin
+```
 
-I build agentic AI: the kind where an LLM does reliable work inside a real engineering pipeline, not a demo that falls apart on the second try. Most of what I care about is the unglamorous part, grounding, validation, and keeping the model from making things up.
+i mostly build ai agents that have to work inside real codebases, not just in a demo. the hard (and fun) part is getting them to stop making stuff up.
 
----
+### what i'm working on
 
-### 🚀 What I'm working on
+- **sagitec**: building the coding and testing agents in a multi-agent dev pipeline. the catch is they write code in a proprietary low-code language no model has ever seen, so a lot of it is RAG (lucene), MCP tooling, and tuning the agent loop. got token usage per task down 90%+
+- **opensrcer**: open source MCP framework for agent tool-calling. won best use of AI/ML at citrushack (solo)
+- **+EV sports analytics**: langgraph agents on top of postgres that look for +EV player props. the llm runs the queries, it doesn't make up the numbers
+- **backtester**: my own engine for testing trading strategies with real transaction costs and walk-forward / out-of-sample testing
+- **daily bruin**: web stuff for the paper, ~176k readers a month
 
-- **Sagitec (AI Solutions Intern)** — Building the coding and system-test agents in a gated, human-in-the-loop multi-agent SDLC pipeline that generates against a proprietary low-code language no base model has ever seen. Tool-calling harness, Lucene-backed RAG for grounding, MCP integration, and a ReAct loop I cut per-task token usage on by 90%+.
-- **OpenSrcer** — An open-source agentic framework on the Model Context Protocol (MCP) that standardizes tool-calling and system-level actions for autonomous agents. Won Best Use of AI/ML at CitrusHack.
-- **Agentic +EV analytics platform** — A multi-agent LangGraph pipeline over PostgreSQL that models player-prop outcomes and flags +EV signals, built like a trading desk. The LLM orchestrates queries; it never invents a number.
-- **Systematic backtesting framework** — A reproducible research engine for multi-asset strategies with real transaction-cost modeling and rigorous statistical validation (walk-forward, out-of-sample, permutation tests).
-- **Daily Bruin** — Performance work and features across the web stack for one of the nation's largest student-run papers (176k+ monthly readers).
+### other stuff
 
----
+- won the congressional app challenge with wealthwise and presented it at the capitol
+- got a fix merged into [worldmonitor](https://github.com/koala73/worldmonitor) (82k+ stars)
 
-### 🛠️ Stack
+### stack
 
-| | |
-| --- | --- |
-| **AI / Agents** | Multi-Agent Orchestration, MCP, RAG, LangGraph, LangChain, LlamaIndex, Pinecone, Azure OpenAI, Prompt Engineering |
-| **Languages** | Python, TypeScript, C#, C++, Java, SQL |
-| **Backend / Data** | FastAPI, Flask, Node.js, .NET, PostgreSQL, MongoDB, Supabase, Neo4j, Lucene |
-| **Frontend** | React, Next.js |
-| **Tooling** | Git, Docker, CI/CD, Azure, Azure DevOps |
+```
+languages   python, typescript, c#, c++, java, sql
+ai          langgraph, langchain, llamaindex, mcp, rag, pinecone, azure openai
+backend     fastapi, flask, node, .net, postgres, mongodb, supabase, neo4j
+frontend    react, next.js
+tools       git, docker, azure devops
+```
 
----
+### off the keyboard
 
-### 🌟 Things I'm proud of
+lifting, folding origami, staring at nasdaq order flow way too much, and watching the 49ers and kings.
 
-- **OpenSrcer** — MCP agent framework; Best Use of AI/ML at CitrusHack (solo, 300+ participants).
-- **WealthWise** — Congressional App Challenge winner, presented at the U.S. Capitol.
-- **Open source** — recently merged a fix into [worldmonitor](https://github.com/koala73/worldmonitor) (82k+ stars).
+### reach me
 
----
-
-### 🏋️ Beyond the terminal
-
-- High School Valedictorian, now doing CS & Engineering at UCLA.
-- Lift on an upper/lower split; UCLA's hills double as extra leg day.
-- Watch Nasdaq order flow more than is probably healthy.
-- Still fold origami. Sometimes the best systems don't need electricity.
-- SF 49ers and Sacramento Kings.
-
----
-
-### 📫 Reach me
-
-[LinkedIn](https://linkedin.com/in/rahul-puritipati) · [Email](mailto:rahulp7801@ucla.edu) · Los Angeles, CA
+[linkedin](https://linkedin.com/in/rahul-puritipati) / [email](mailto:rahulp7801@ucla.edu) / los angeles
