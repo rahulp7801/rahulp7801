@@ -7,7 +7,7 @@ ai solutions intern @ sagitec
 swe @ daily bruin
 ```
 
-i mostly build ai agents that have to work inside real codebases, not just in a demo. the hard (and fun) part is getting them to stop making stuff up.
+i mostly build ai agents that to work inside real codebases, not just in a demo. the hard (and fun) part is getting them to stop making stuff up and do work efficiently. love seeing my pc handle a lot of mundane things i otherwise would have to do.
 
 ### what i'm working on
 
@@ -34,7 +34,7 @@ tools       git, docker, azure devops
 
 ### off the keyboard
 
-lifting, folding origami, staring at nasdaq order flow way too much, and watching the 49ers and kings.
+lifting, folding origami, staring at nasdaq and megacap order flow way too much, and watching the niners and kings (unfortunately).
 
 ### reach me
 
