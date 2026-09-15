@@ -20,7 +20,7 @@ i mostly build ai agents that to work inside real codebases, not just in a demo.
 ### other stuff
 
 - won the congressional app challenge with wealthwise and presented it at the capitol
-- got a fix merged into [worldmonitor](https://github.com/koala73/worldmonitor) (82k+ stars)
+- got a fix merged into [worldmonitor](https://github.com/koala73/worldmonitor) (getting into open source)
 
 ### stack
 
