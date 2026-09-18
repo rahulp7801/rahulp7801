@@ -2,7 +2,7 @@
 
 ```console
 rahul@ucla:~$ whoami
-cs & engineering @ ucla '28
+cs & engineering @ ucla
 ai solutions intern @ sagitec
 swe @ daily bruin
 ```
