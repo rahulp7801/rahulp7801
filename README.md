@@ -35,6 +35,7 @@ tools       git, docker, azure devops
 ### off the keyboard
 
 lifting, staring at nasdaq and megacap order flow way too much, watching the niners and kings (unfortunately), playing football
+
 aspiring kitesurfer
 
 ### reach me
