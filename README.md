@@ -13,8 +13,8 @@ dabbling in building ai agents to make my life chill. but the hard (and fun) par
 
 - **sagitec**: building the coding and testing agents in a multi-agent dev pipeline. the catch is they write code in a proprietary low-code language no model has ever seen, so a lot of it is RAG (lucene), MCP tooling, and tuning the agent loop. got token usage per task down 90%+
 - **opensrcer**: open source MCP framework for agent tool-calling. won best use of AI/ML at citrushack (solo)
-- **+EV sports analytics**: langgraph agents on top of postgres that look for +EV player props. the llm runs the queries, it doesn't make up the numbers
-- **backtester**: my own engine for testing futures trading strategies with real transaction costs and walk-forward / out-of-sample testing
+- **sports analytics forecaster**: langgraph agents on top of postgres that look for mispriced player props. the llm runs the queries, it doesn't make up the numbers
+- **quantitative backtester**: my own engine for testing futures / options trading strategies with real transaction costs and walk-forward / out-of-sample testing
 - **daily bruin**: web stuff for the paper, ~176k readers a month
 
 ### other stuff
